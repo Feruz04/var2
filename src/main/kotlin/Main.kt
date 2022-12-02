@@ -12,5 +12,6 @@ fun main(args: Array<String>) {
     val f:Float = 12.0f
     println(f/3)
     val i:Int=10
+
     println(i/3)
 }
